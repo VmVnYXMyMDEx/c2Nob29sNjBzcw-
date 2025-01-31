@@ -1,0 +1,35 @@
+
+.aao {
+  background-image: url(img/2024-02-12_20-30-48.png);
+  background-size: cover;
+  padding: 50px
+}
+
+body {
+  background-image: url(img/oboi.jpg);
+}
+
+.hh11 {
+  font-size: 100px
+}
+
+.hh12 {
+  font-size: 25px
+}
+.link {
+  font-size: 45px;
+}
+a {
+  padding: 15px;
+  display: inline-block;
+}
+.anom {
+  font-size: 25px;
+  padding: 5px;
+}
+.puk {
+  font-size: 50px;
+}
+#matematic {
+  color: red;
+}
